@@ -2,4 +2,4 @@
 ### [主页](/)
 ---
 * 1.17
-* ![Minecraft](/assets/1.17.png)
+![Minecraft](/assets/1.17.png)
